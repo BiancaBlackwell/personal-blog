@@ -1003,8 +1003,8 @@ header {
   color: #fff;
   border: 2px solid #35558c; }
   .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-    background: #d49af9 !important;
-    border-color: #d49af9 !important; }
+    background: #a6cbe0 !important;
+    border-color: #a6cbe0 !important; }
   .btn-primary.btn-outline {
     background: transparent;
     color: #4d4d4d;
@@ -1018,8 +1018,8 @@ header {
   color: #fff;
   border: 2px solid #5cb85c; }
   .btn-success:hover, .btn-success:focus, .btn-success:active {
-    background: #4cae4c !important;
-    border-color: #4cae4c !important; }
+    background: #a6cbe0 !important;
+    border-color: #a6cbe0 !important; }
   .btn-success.btn-outline {
     background: transparent;
     color: #5cb85c;
