@@ -572,8 +572,8 @@ header {
   color: #ed687c; }
 
 .progress.pink .progress-left .progress-bar {
-  -webkit-animation: loading-4 0.4s linear forwards 1.8s;
-  animation: loading-4 0.4s linear forwards 1.8s; }
+  -webkit-animation: loading-3 0.4s linear forwards 1.8s;
+  animation: loading-3 0.4s linear forwards 1.8s; }
 
 .progress.green .progress-bar {
   border-color: #1abc9c; }
